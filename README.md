@@ -37,5 +37,5 @@ Therefore some knowledege about Supervised Learning Algorithms:
 Supervised learning is a process of providing input data as well as correct output data to the machine learning model. The aim of a supervised learning algorithm is to find
 a mapping function to map the input variable(x) with the output variable(y).
 
-Algorithms I have used are: Decision Tree, Random Forest and K-Nearest-Neighbours Classification Algorithm,
+Algorithms I have used are: Decision Tree, Random Forest and K-Nearest-Neighbours Classification Algorithm.
 The information regarding these algorithms is present in code file. 
