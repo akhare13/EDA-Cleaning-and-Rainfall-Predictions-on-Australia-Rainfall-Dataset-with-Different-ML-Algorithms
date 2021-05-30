@@ -34,6 +34,7 @@ between seaborn vs matplotlib.
 
 I have used Supervised Learning Algorithm.
 Therefore some knowledege about Supervised Learning Algorithms:
+
 Supervised learning is a process of providing input data as well as correct output data to the machine learning model. The aim of a supervised learning algorithm is to find
 a mapping function to map the input variable(x) with the output variable(y).
 
